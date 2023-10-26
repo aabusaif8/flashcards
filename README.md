@@ -1,0 +1,1 @@
+Welcome to the Flashcards Web App! This application is designed to help you learn and review information in a fun and interactive way using digital flashcards. Whether you're a student preparing for exams or someone interested in expanding your knowledge, this app has you covered.
